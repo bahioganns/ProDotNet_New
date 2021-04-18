@@ -1,12 +1,10 @@
 ﻿using Domain;
 using Domain.Models;
-using BusinessLogic.Contracts;
 using BusinessLogic.Implementations;
 using DataAccess.Contracts;
 using NUnit.Framework;
 using Moq;
-using System;
-using System.Collections.Generic;
+
 
 namespace BusinessLogic.Test
 {

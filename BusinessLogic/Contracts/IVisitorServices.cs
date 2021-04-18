@@ -6,7 +6,7 @@ using Domain.Models;
 
 namespace BusinessLogic.Contracts
 {
-    class IVisitorServices
+    public class IVisitorServices
     {
         public interface IVisitorCreateService
         {

@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{81CEDFCC-9300-468C-A85B-F60B73DD9E21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicTest", "BusinessLogicTest\BusinessLogicTest.csproj", "{78EADA5B-ECCB-41D8-82F5-18524FC3D02D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicTest", "BusinessLogicTest\BusinessLogicTest.csproj", "{78EADA5B-ECCB-41D8-82F5-18524FC3D02D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTO", "DTO\DTO.csproj", "{8C942F72-DA99-4EB9-BE11-647C2A9348B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{A96B065B-4EAA-4F31-8FF4-C28C70B65C8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{78EADA5B-ECCB-41D8-82F5-18524FC3D02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78EADA5B-ECCB-41D8-82F5-18524FC3D02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78EADA5B-ECCB-41D8-82F5-18524FC3D02D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C942F72-DA99-4EB9-BE11-647C2A9348B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C942F72-DA99-4EB9-BE11-647C2A9348B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C942F72-DA99-4EB9-BE11-647C2A9348B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C942F72-DA99-4EB9-BE11-647C2A9348B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96B065B-4EAA-4F31-8FF4-C28C70B65C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96B065B-4EAA-4F31-8FF4-C28C70B65C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96B065B-4EAA-4F31-8FF4-C28C70B65C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96B065B-4EAA-4F31-8FF4-C28C70B65C8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\bin\Debug\netcoreapp3.1\DTO.exe
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.json
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.dev.json
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\bahioganns\source\repos\bahioganns_lab2\DTO\obj\Debug\netcoreapp3.1\DTO.genruntimeconfig.cache
